@@ -1,5 +1,4 @@
 import time
-import sys
 
 def countdown_timer(minutes):
     total_seconds = minutes * 60
