@@ -13,5 +13,5 @@ def countdown_timer(minutes):
     print("Time's up! Task completed.")
 
 
-timer = int(input("How many minutes"))
+timer = int(input("How many minutes?\n"))
 countdown_timer(timer)  
